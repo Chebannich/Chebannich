@@ -102,9 +102,9 @@ field of study 'mathematics'
 
 ### 🇺🇸 Languages :
 
-* #### Ukrainian C2 - Native speaker  
+* #### Ukrainian 🇺🇦 C2 - Native speaker  
 
-* #### Russian C2 - Native speaker  
+* #### Russian 🇷🇺C2 - Native speaker  
   
-* #### English C2 - Upper-Intermediate  
+* #### English 🇺🇸 B2 - Upper-Intermediate  
 Have experience communicating in English from 2021, work as a dispatcher in the USA
