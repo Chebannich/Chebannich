@@ -26,12 +26,21 @@
 
 ### 👨‍💻 About Me :
 
-I am 26 years old and I am from the city of Odessa, now I'm live in Slovakia.  
-As an IT student, I studied many programming languages such as C++, C, PHP, JAVA, etc., but Web development, namely Frontend, fell into my soul, and I began to study it in detail.
-I even managed to complete several freelance orders, but unfortunately after university I couldn’t find a job in this industry and I took another job to earn money.  
-After leaving Ukraine, I again set out to become an excellent front-end developer!  
+Hi there, my name is Stanislav, but everyone calls me Stas. I’m 26 years old, I was born and raised in a small town in the Odessa region.
 
-At this time I has been taking a course from RS School!
+There I graduated from school and then successfully passed the exams and entered the ONPU with a degree in Systems Engineering.
+
+In the first two years of study at the university I became acquainted with programming in general and with languages such as C++, C, JAVA and others.
+
+In the third year of study, they started teaching us Web Development and it sank into my soul. I began to study this area in more detail and even completed several freelance projects. But unfortunately, after graduating from university, I was never able to find a job in this specialty, which is why I went to another field.
+
+In mid-2021, I got a job at the American logistics company Auto Transport Chicago, where I still work successfully. Thanks to this job, I learned English well, which now helps me study on a course from RS School.
+
+After the start of the war, I had to leave Ukraine, and currently I’m with my family living in Slovakia. Here I reset my goal to become a front-end developer. Now I try to devote all my free time to studying new technologies in this area and rs school helps me a lot with this.
+
+Thanks to my diligence and discipline, I am good at learning new things.
+
+Now my goal is to get a job as a web developer, get acquainted with working in a team and improve my skills.
 
 ---
 
@@ -43,10 +52,8 @@ At this time I has been taking a course from RS School!
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"  title="SASS" alt="EsLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
 
 ---
 
@@ -55,10 +62,20 @@ At this time I has been taking a course from RS School!
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
+| Microsoft "Build JavaScript applications using TypeScript"      | 02/2024 - xx/2024 |
 | RS School "JavaScript/Front-end 2023Q4"                         | 11/2023 - xx/2024 |
+
+
 
 ---
 
+
+### 🏛️ Certificates :
+
+[EF SET certificate](https://cert.efset.org/iztTdo) 
+
+---
+<!--
 
 ### ⚙️ My Stats :
 
@@ -75,11 +92,11 @@ At this time I has been taking a course from RS School!
 
 
 ---
-
+-->
 
 ### 💼 Work Experience:
 
-* From August 2021 to now work in Auto Transport Chicago as a dispatcher
+* From August 2021 till now has been working in Auto Transport Chicago as a dispatcher
 
 * From 2018 till 2020 I have experience in markup page layout in freelancing.  
 Also I'm really looking forward to the opportunity to work with the team!
@@ -106,5 +123,5 @@ field of study 'mathematics'
 
 * #### Russian C2 - Native speaker  
   
-* #### English B2 - Upper-Intermediate  
+* #### English C1 - Upper-Intermediate  
 Have experience communicating in English from 2021, work as a dispatcher in the USA
