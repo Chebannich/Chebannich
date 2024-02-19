@@ -123,5 +123,5 @@ field of study 'mathematics'
 
 * #### Russian C2 - Native speaker  
   
-* #### English C1 - Upper-Intermediate  
+* #### English C1 - Advanced  
 Have experience communicating in English from 2021, work as a dispatcher in the USA
