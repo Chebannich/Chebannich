@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me :
 
-Hi there, my name is Stanislav, but everyone calls me Stas. I’m 26 years old, I was born and raised in a small town in the Odessa region.
+My name is Stanislav, but everyone calls me Stas. I’m 26 years old, I was born and raised in a small town in the Odessa region.
 
 There I graduated from school and then successfully passed the exams and entered the ONPU with a degree in Systems Engineering.
 
