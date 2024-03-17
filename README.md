@@ -57,17 +57,17 @@ Now my goal is to get a job as a web developer, get acquainted with working in a
 
 ---
 
-
+<!--
 ### 💻 Courses :
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| Microsoft "Build JavaScript applications using TypeScript"      | 02/2023 - 03/2023 |
-| RS School "JavaScript/Front-end 2021Q3"                         | 11/2021 - 02/2022 |
+| Microsoft "Build JavaScript applications using TypeScript"      | 02/2024 - xx/2024 |
+| RS School "JavaScript/Front-end 2021Q3"                         | 11/2023 - xx/2024 |
 
 
 
----
+--->
 
 
 ### 🏛️ Certificates :
@@ -92,7 +92,6 @@ Now my goal is to get a job as a web developer, get acquainted with working in a
 
 
 ---
--->
 
 ### 💼 Work Experience:
 
@@ -101,7 +100,7 @@ Now my goal is to get a job as a web developer, get acquainted with working in a
 * From 2018 till 2020 I have experience in markup page layout in freelancing.  
 Also I'm really looking forward to the opportunity to work with the team!
 
----
+--->
 
 
 ### 🧑‍🎓 Education :
