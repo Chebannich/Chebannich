@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
+<!--
 ### 👨‍💻 About Me :
 
 My name is Stanislav, but everyone calls me Stas. I’m 26 years old, I was born and raised in a small town in the Odessa region.
@@ -42,7 +42,7 @@ Thanks to my diligence and discipline, I am good at learning new things.
 
 Now my goal is to get a job as a web developer, get acquainted with working in a team and improve my skills.
 
----
+--->
 
 
 ### 🛠️ Languages and Tools :
