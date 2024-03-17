@@ -62,8 +62,8 @@ Now my goal is to get a job as a web developer, get acquainted with working in a
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| Microsoft "Build JavaScript applications using TypeScript"      | 02/2024 - xx/2024 |
-| RS School "JavaScript/Front-end 2023Q4"                         | 11/2023 - xx/2024 |
+| Microsoft "Build JavaScript applications using TypeScript"      | 02/2023 - 03/2023 |
+| RS School "JavaScript/Front-end 2021Q3"                         | 11/2021 - 02/2022 |
 
 
 
