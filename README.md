@@ -119,8 +119,8 @@
         <th>№</th>
         <th>School Name</th>
         <th>Cource Name</th>
-        <th>Data of start</th>
-        <th>Data of end</th>
+        <th>Date of start</th>
+        <th>Date of end</th>
       </tr>
     </thead>
     <tbody>
