@@ -105,6 +105,54 @@
 <!-- Tech stack icons (end) -->
 
 
+<!-- It cources (start) -->
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">IT Courses</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th>№</th>
+        <th>School Name</th>
+        <th>Cource Name</th>
+        <th>Data of start</th>
+        <th>Data of end</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>3</td></td>
+        <td>Code Basics</td>
+        <td>Бесплатный курс по HTML: обучение html верстке для начинающих</td>
+        <td>08.07.2024</td>
+        <td>09.07.2024</td>
+      </tr>
+      <tr>
+        <td>2</td></td>
+        <td>RS School</td>
+        <td>JS/FE Pre-School 2024Q2</td>
+        <td>24.06.2024</td>
+        <td>IN PROCESS</td>
+      </tr>
+      <tr>
+        <td>1</td></td>
+        <td>RS School</td>
+        <td>JavaScript/Front-end 2023Q4</td>
+        <td>05.11.2023</td>
+        <td>05.11.2023</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+
+
+
+
+
 <!-- Connect with me (start) -->
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
