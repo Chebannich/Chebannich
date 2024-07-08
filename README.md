@@ -109,7 +109,7 @@
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">IT Courses</h2></summary>
+    <summary><h2 style="display: inline-block">IT Courses🏆</h2></summary>
   </ul>
 </div>
 <p align="center">
@@ -148,9 +148,7 @@
     </tbody>
   </table>
 </p>
-
-
-
+<!-- It cources (end) -->
 
 
 <!-- Connect with me (start) -->
@@ -172,7 +170,7 @@
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">My Codewars</h2></summary>
+    <summary><h2 style="display: inline-block">My Codewars💻</h2></summary>
   </ul>
 </div>
 
