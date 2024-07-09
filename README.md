@@ -125,23 +125,30 @@
     </thead>
     <tbody>
       <tr>
+        <td>4</td></td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com//languages/css">Free CSS Course: Online Training from begin</a></td>
+        <td>09.07.2024</td>
+        <td>10.07.2024</td>
+      </tr>
+      <tr>
         <td>3</td></td>
-        <td>Code Basics</td>
-        <td>Бесплатный курс по HTML: обучение html верстке для начинающих</td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com/languages/html">HTML: Perfect for Beginners</a></td>
         <td>08.07.2024</td>
         <td>09.07.2024</td>
       </tr>
       <tr>
         <td>2</td></td>
-        <td>RS School</td>
-        <td>JS/FE Pre-School 2024Q2</td>
+        <td><a href="https://rs.school">RS School</a></td>
+        <td><a href="https://rs.school/courses/javascript-preschool-ru">JavaScript / Front-end Course / Pre-school RU</a></td>
         <td>24.06.2024</td>
         <td>IN PROCESS</td>
       </tr>
       <tr>
         <td>1</td></td>
-        <td>RS School</td>
-        <td>JavaScript/Front-end 2023Q4</td>
+        <td><a href="https://rs.school">RS School</a></td>
+        <td><a href="https://rs.school/courses/javascript-ru">JavaScript / Front-end Course</a></td>
         <td>05.11.2023</td>
         <td>05.11.2023</td>
       </tr>
