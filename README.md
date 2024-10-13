@@ -142,22 +142,22 @@
         <td>4</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/block-inline">Блочные и строчные элементы</a></td>
-        <td></td>
-        <td></td>
+        <td>12.10.2024</td>
+        <td>12.10.2024</td>
       </tr>
       <tr>
         <td>4</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
-        <td></td>
-        <td></td>
+        <td>11.10.2024</td>
+        <td>11.10.2024</td>
       </tr>
     <tr>
         <td>4</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
-        <td></td>
-        <td></td>
+        <td>10.10.2024</td>
+        <td>10.10.2024</td>
       </tr>
       <tr>
         <td>4</td></td>
