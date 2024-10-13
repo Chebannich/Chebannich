@@ -126,6 +126,41 @@
     <tbody>
       <tr>
         <td>4</td></td>
+        <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
+        <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+       <tr>
+        <td>4</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/layout/flexbox-tutorial">Руководство по флексбоксам</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+     <tr>
+        <td>4</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/block-inline">Блочные и строчные элементы</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+    <tr>
+        <td>4</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4</td></td>
         <td><a href="https://code-basics.com">Code Basics</a></td>
         <td><a href="https://code-basics.com//languages/css">Free CSS Course: Online Training from begin</a></td>
         <td>09.07.2024</td>
