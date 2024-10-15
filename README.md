@@ -127,7 +127,7 @@
     <tr>
         <td>11</td></td>
         <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
-        <td><a href="[https://code-basics.com/languages/javascript](https://javascript.info/first-steps)">JavaScript Fundamentals</a></td>
+        <td><a href="https://javascript.info/first-steps">JavaScript Fundamentals</a></td>
         <td></td>
         <td></td>
       </tr>
