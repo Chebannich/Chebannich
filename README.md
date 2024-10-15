@@ -114,7 +114,7 @@
 </div>
 <p align="center">
   <table align="center">
-    <thead>
+    <thead>      
       <tr>
         <th>№</th>
         <th>School Name</th>
@@ -124,6 +124,13 @@
       </tr>
     </thead>
     <tbody>
+    <tr>
+        <td>11</td></td>
+        <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
+        <td><a href="[https://code-basics.com/languages/javascript](https://javascript.info/first-steps)">JavaScript Fundamentals</a></td>
+        <td></td>
+        <td></td>
+      </tr>
       <tr>
         <td>10</td></td>
         <td><a href="https://code-basics.com">Code Basics</a></td>
