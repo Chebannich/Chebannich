@@ -126,6 +126,13 @@
     <tbody>
       <tr>
         <td>4</td></td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com/languages/html">JavaScript: Perfect for Beginners</a></td>
+        <td>15.10.2024</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4</td></td>
         <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
         <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
         <td>14.10.2024</td>
