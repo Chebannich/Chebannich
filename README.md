@@ -125,42 +125,42 @@
     </thead>
     <tbody>
       <tr>
-        <td>4</td></td>
+        <td>10</td></td>
         <td><a href="https://code-basics.com">Code Basics</a></td>
-        <td><a href="https://code-basics.com/languages/html">JavaScript: Perfect for Beginners</a></td>
+        <td><a href="https://code-basics.com/languages/javascript">JavaScript: Perfect for Beginners</a></td>
         <td>15.10.2024</td>
         <td></td>
       </tr>
       <tr>
-        <td>4</td></td>
+        <td>9</td></td>
         <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
         <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
         <td>14.10.2024</td>
         <td>14.10.2024</td>
       </tr>
        <tr>
-        <td>4</td></td>
+        <td>8</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/layout/flexbox-tutorial">Руководство по флексбоксам</a></td>
         <td>13.10.2024</td>
         <td>13.10.2024</td>
       </tr>
      <tr>
-        <td>4</td></td>
+        <td>7</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/block-inline">Блочные и строчные элементы</a></td>
         <td>12.10.2024</td>
         <td>12.10.2024</td>
       </tr>
       <tr>
-        <td>4</td></td>
+        <td>6</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
         <td>11.10.2024</td>
         <td>11.10.2024</td>
       </tr>
     <tr>
-        <td>4</td></td>
+        <td>5</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
         <td>10.10.2024</td>
