@@ -230,7 +230,7 @@
   </ul>
 </div>
 
-<p align="center"><a href="https://www.codewars.com/users/chebannich"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/chebannich/badges/large?logo=false"></a></p>
+<p align="center"><a href="https://www.codewars.com/users/rsschool_955ceeb7837a88d5"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/rsschool_955ceeb7837a88d5/badges/large?logo=false"></a></p>
 <!-- Сodewars (end) -->
 
 
