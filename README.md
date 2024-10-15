@@ -128,15 +128,15 @@
         <td>4</td></td>
         <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
         <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
-        <td></td>
-        <td></td>
+        <td>14.10.2024</td>
+        <td>14.10.2024</td>
       </tr>
        <tr>
         <td>4</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/layout/flexbox-tutorial">Руководство по флексбоксам</a></td>
-        <td></td>
-        <td></td>
+        <td>13.10.2024</td>
+        <td>13.10.2024</td>
       </tr>
      <tr>
         <td>4</td></td>
