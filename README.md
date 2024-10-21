@@ -128,15 +128,15 @@
         <td>11</td></td>
         <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
         <td><a href="https://javascript.info/first-steps">JavaScript Fundamentals</a></td>
-        <td></td>
-        <td></td>
+        <td>20.10.2024</td>
+        <td>21.10.2024</td>
       </tr>
       <tr>
         <td>10</td></td>
         <td><a href="https://code-basics.com">Code Basics</a></td>
         <td><a href="https://code-basics.com/languages/javascript">JavaScript: Perfect for Beginners</a></td>
         <td>15.10.2024</td>
-        <td></td>
+        <td>17.10.2024</td>
       </tr>
       <tr>
         <td>9</td></td>
