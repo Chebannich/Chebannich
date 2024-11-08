@@ -163,72 +163,81 @@
         <th>№</th>
         <th>Source</th>
         <th>Material Name</th>
-        <th>Date Published</th>
         <th>Date Read</th>
       </tr>
     </thead>
     <tbody>
-        <td align="center">9</td></td>
+<!--       <tr>
+        <td align="center">1</td></td>
+        <td><a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a></td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work">Internet and Browsers</a></td>
+        <td>16.08.2024</td>
+      </tr> -->
+      <tr>
+        <td align="center">11</td></td>
         <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
         <td><a href="https://javascript.info/first-steps">JavaScript Fundamentals</a></td>
-        <td>20.10.2024</td>
-        <td>21.10.2024</td>
+        <td>19.08.2024</td>
       </tr>
       <tr>
-        <td align="center">8</td></td>
+        <td align="center">10</td></td>
         <td><a href="https://code-basics.com">Code Basics</a></td>
         <td><a href="https://code-basics.com/languages/javascript">JavaScript: Perfect for Beginners</a></td>
-        <td>15.10.2024</td>
-        <td>17.10.2024</td>
+        <td>17.08.2024</td>
       </tr>
       <tr>
-        <td align="center">7</td></td>
+        <td align="center">9</td></td>
         <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
         <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
-        <td>14.10.2024</td>
-        <td>14.10.2024</td>
+        <td>14.08.2024</td>
       </tr>
        <tr>
-        <td align="center">6</td></td>
+        <td align="center">8</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/layout/flexbox-tutorial">Руководство по флексбоксам</a></td>
-        <td>13.10.2024</td>
-        <td>13.10.2024</td>
+        <td>13.08.2024</td>
       </tr>
      <tr>
-        <td align="center">5</td></td>
+        <td align="center">7</td></td>
         <td><a href="https://webref.ru">WebReference</a></td>
         <td><a href="https://webref.ru/course/block-inline">Блочные и строчные элементы</a></td>
-        <td>12.10.2024</td>
-        <td>12.10.2024</td>
+        <td>12.08.2024</td>
+      </tr>
+      <tr>
+        <td align="center">6</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
+        <td>11.08.2024</td>
+      </tr>
+      <tr>
+        <td align="center">5</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
+        <td>10.08.2024</td>
       </tr>
       <tr>
         <td align="center">4</td></td>
-        <td><a href="https://webref.ru">WebReference</a></td>
-        <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
-        <td>11.10.2024</td>
-        <td>11.10.2024</td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com//languages/css">Free CSS Course: Online Training from begin</a></td>
+        <td>04.07.2024</td>
       </tr>
-    <tr>
+      <tr>
         <td align="center">3</td></td>
-        <td><a href="https://webref.ru">WebReference</a></td>
-        <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
-        <td>10.10.2024</td>
-        <td>10.10.2024</td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com/languages/html">HTML: Perfect for Beginners</a></td>
+        <td>02.07.2024</td>
       </tr>
       <tr>
         <td align="center">2</td></td>
-        <td><a href="https://code-basics.com">Code Basics</a></td>
-        <td><a href="https://code-basics.com//languages/css">Free CSS Course: Online Training from begin</a></td>
-        <td>09.07.2024</td>
-        <td>10.07.2024</td>
+        <td><a href="https://git-scm.com/doc">Git Documentation</a></td>
+        <td><a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control">Getting Started - About Version Control</a></td>
+        <td>06.25.2024</td>
       </tr>
       <tr>
         <td align="center">1</td></td>
-        <td><a href="https://code-basics.com">Code Basics</a></td>
-        <td><a href="https://code-basics.com/languages/html">HTML: Perfect for Beginners</a></td>
-        <td>08.07.2024</td>
-        <td>09.07.2024</td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/introduction">Введение в Интернет</a></td>
+        <td>25.06.2024</td>
       </tr>
     </tbody>
   </table>
