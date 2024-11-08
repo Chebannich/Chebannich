@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" display="flex">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,redux,npm,nodejs,vite,tailwind,bootstrap,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,npm,sass" />
   </a>
 </p>
 <!-- Tech stack icons (end) -->
@@ -167,12 +167,36 @@
       </tr>
     </thead>
     <tbody>
-<!--       <tr>
-        <td align="center">1</td></td>
+      <tr>
+        <td align="center">16</td></td>
+        <td><a href="https://docs.npmjs.com">npm Docs</a></td>
+        <td><a href="https://docs.npmjs.com/about-npm">About npm</a></td>
+        <td>11.11.2024</td>
+      </tr>
+      <tr>
+        <td align="center">15</td></td>
+        <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
+        <td><a href="https://javascript.info/advanced-functions">Advanced working with functions</a></td>
+        <td>09.11.2024</td>
+      </tr>
+      <tr>
+        <td align="center">14</td></td>
+        <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
+        <td><a href="https://javascript.info/data-types">Data types</a></td>
+        <td>07.11.2024</td>
+      </tr>
+      <tr>
+        <td align="center">13</td></td>
+        <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
+        <td><a href="https://javascript.info/object-basics">Objects: the basics</a></td>
+        <td>05.11.2024</td>
+      </tr>
+      <tr>
+        <td align="center">12</td></td>
         <td><a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a></td>
         <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work">Internet and Browsers</a></td>
-        <td>16.08.2024</td>
-      </tr> -->
+        <td>25.10.2024</td>
+      </tr>
       <tr>
         <td align="center">11</td></td>
         <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
