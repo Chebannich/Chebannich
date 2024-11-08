@@ -124,7 +124,12 @@
       </tr>
     </thead>
     <tbody>
-    <tr>
+      <td>2</td></td>
+        <td><a href="https://rs.school">RS School</a></td>
+        <td><a href="https://rs.school/courses/javascript-ru">JavaScript / Front-end Course</a></td>
+        <td>27.10.2024</td>
+        <td>IN PROCESS</td>
+      <tr>
         <td>11</td></td>
         <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
         <td><a href="https://javascript.info/first-steps">JavaScript Fundamentals</a></td>
@@ -192,7 +197,7 @@
         <td><a href="https://rs.school">RS School</a></td>
         <td><a href="https://rs.school/courses/javascript-preschool-ru">JavaScript / Front-end Course / Pre-school RU</a></td>
         <td>24.06.2024</td>
-        <td>IN PROCESS</td>
+        <td>27.10.2024</td>
       </tr>
       <tr>
         <td>1</td></td>
