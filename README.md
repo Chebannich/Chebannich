@@ -28,9 +28,9 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **Shelter project**
+- 🔭 I’m currently working on **<a href="https://rolling-scopes-school.github.io/chebannich-JSFEPRESCHOOL2024Q2/shelter/index.html#help">Shelter project</a>**
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning **<a href="https://www.typescriptlang.org">TypeScript</a> and <a href="https://react.dev">React</a>**
 
 - ☁️ I've keen interest in frontend. So,I'm learning **JS**
 
@@ -98,7 +98,7 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" display="flex">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,redux,npm,nodejs,vite,tailwind,bootstrap,figma,vscode&perline=14" />
   </a>
 </p>
@@ -124,83 +124,20 @@
       </tr>
     </thead>
     <tbody>
-      <td>2</td></td>
+        <td align="center">3</td></td>
         <td><a href="https://rs.school">RS School</a></td>
         <td><a href="https://rs.school/courses/javascript-ru">JavaScript / Front-end Course</a></td>
         <td>27.10.2024</td>
         <td>IN PROCESS</td>
       <tr>
-        <td>11</td></td>
-        <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
-        <td><a href="https://javascript.info/first-steps">JavaScript Fundamentals</a></td>
-        <td>20.10.2024</td>
-        <td>21.10.2024</td>
-      </tr>
-      <tr>
-        <td>10</td></td>
-        <td><a href="https://code-basics.com">Code Basics</a></td>
-        <td><a href="https://code-basics.com/languages/javascript">JavaScript: Perfect for Beginners</a></td>
-        <td>15.10.2024</td>
-        <td>17.10.2024</td>
-      </tr>
-      <tr>
-        <td>9</td></td>
-        <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
-        <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
-        <td>14.10.2024</td>
-        <td>14.10.2024</td>
-      </tr>
-       <tr>
-        <td>8</td></td>
-        <td><a href="https://webref.ru">WebReference</a></td>
-        <td><a href="https://webref.ru/layout/flexbox-tutorial">Руководство по флексбоксам</a></td>
-        <td>13.10.2024</td>
-        <td>13.10.2024</td>
-      </tr>
-     <tr>
-        <td>7</td></td>
-        <td><a href="https://webref.ru">WebReference</a></td>
-        <td><a href="https://webref.ru/course/block-inline">Блочные и строчные элементы</a></td>
-        <td>12.10.2024</td>
-        <td>12.10.2024</td>
-      </tr>
-      <tr>
-        <td>6</td></td>
-        <td><a href="https://webref.ru">WebReference</a></td>
-        <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
-        <td>11.10.2024</td>
-        <td>11.10.2024</td>
-      </tr>
-    <tr>
-        <td>5</td></td>
-        <td><a href="https://webref.ru">WebReference</a></td>
-        <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
-        <td>10.10.2024</td>
-        <td>10.10.2024</td>
-      </tr>
-      <tr>
-        <td>4</td></td>
-        <td><a href="https://code-basics.com">Code Basics</a></td>
-        <td><a href="https://code-basics.com//languages/css">Free CSS Course: Online Training from begin</a></td>
-        <td>09.07.2024</td>
-        <td>10.07.2024</td>
-      </tr>
-      <tr>
-        <td>3</td></td>
-        <td><a href="https://code-basics.com">Code Basics</a></td>
-        <td><a href="https://code-basics.com/languages/html">HTML: Perfect for Beginners</a></td>
-        <td>08.07.2024</td>
-        <td>09.07.2024</td>
-      </tr>
-      <tr>
-        <td>2</td></td>
+        <td align="center">2</td></td>
         <td><a href="https://rs.school">RS School</a></td>
         <td><a href="https://rs.school/courses/javascript-preschool-ru">JavaScript / Front-end Course / Pre-school RU</a></td>
         <td>24.06.2024</td>
         <td>27.10.2024</td>
       </tr>
       <tr>
-        <td>1</td></td>
+        <td align="center">1</td></td>
         <td><a href="https://rs.school">RS School</a></td>
         <td><a href="https://rs.school/courses/javascript-ru">JavaScript / Front-end Course</a></td>
         <td>05.11.2023</td>
@@ -210,6 +147,93 @@
   </table>
 </p>
 <!-- It cources (end) -->
+
+
+<!-- Guides and Reference Materials (start) -->
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Guides and Reference Materials📚</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <table align="center">
+    <thead>      
+      <tr>
+        <th>№</th>
+        <th>Source</th>
+        <th>Material Name</th>
+        <th>Date Published</th>
+        <th>Date Read</th>
+      </tr>
+    </thead>
+    <tbody>
+        <td align="center">9</td></td>
+        <td><a href="https://javascript.info">JAVASCRIPT.INFO</a></td>
+        <td><a href="https://javascript.info/first-steps">JavaScript Fundamentals</a></td>
+        <td>20.10.2024</td>
+        <td>21.10.2024</td>
+      </tr>
+      <tr>
+        <td align="center">8</td></td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com/languages/javascript">JavaScript: Perfect for Beginners</a></td>
+        <td>15.10.2024</td>
+        <td>17.10.2024</td>
+      </tr>
+      <tr>
+        <td align="center">7</td></td>
+        <td><a href="https://habr.com/ru/articles/467049/">Habr</a></td>
+        <td><a href="https://habr.com/ru/articles/467049/">Полное руководство по Flexbox</a></td>
+        <td>14.10.2024</td>
+        <td>14.10.2024</td>
+      </tr>
+       <tr>
+        <td align="center">6</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/layout/flexbox-tutorial">Руководство по флексбоксам</a></td>
+        <td>13.10.2024</td>
+        <td>13.10.2024</td>
+      </tr>
+     <tr>
+        <td align="center">5</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/block-inline">Блочные и строчные элементы</a></td>
+        <td>12.10.2024</td>
+        <td>12.10.2024</td>
+      </tr>
+      <tr>
+        <td align="center">4</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/block-model">Блочная модель</a></td>
+        <td>11.10.2024</td>
+        <td>11.10.2024</td>
+      </tr>
+    <tr>
+        <td align="center">3</td></td>
+        <td><a href="https://webref.ru">WebReference</a></td>
+        <td><a href="https://webref.ru/course/position">Позиционирование элементов</a></td>
+        <td>10.10.2024</td>
+        <td>10.10.2024</td>
+      </tr>
+      <tr>
+        <td align="center">2</td></td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com//languages/css">Free CSS Course: Online Training from begin</a></td>
+        <td>09.07.2024</td>
+        <td>10.07.2024</td>
+      </tr>
+      <tr>
+        <td align="center">1</td></td>
+        <td><a href="https://code-basics.com">Code Basics</a></td>
+        <td><a href="https://code-basics.com/languages/html">HTML: Perfect for Beginners</a></td>
+        <td>08.07.2024</td>
+        <td>09.07.2024</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+<!-- Guides and Reference Materials (end) -->
 
 
 <!-- Connect with me (start) -->
