@@ -28,7 +28,7 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **<a href="https://rolling-scopes-school.github.io/chebannich-JSFEPRESCHOOL2024Q2/shelter/index.html#help">Shelter project</a>**
+- 🔭 I’m currently working on **<a href="https://rolling-scopes-school.github.io/chebannich-JSFE2024Q4/christmas-shop/">Christmas Shop</a>**
 
 - 🌱 I’m currently learning **<a href="https://www.typescriptlang.org">TypeScript</a> and <a href="https://react.dev">React</a>**
 
