@@ -267,7 +267,7 @@
         <td align="center">2</td></td>
         <td><a href="https://git-scm.com/doc">Git Documentation</a></td>
         <td><a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control">Getting Started - About Version Control</a></td>
-        <td>06.25.2024</td>
+        <td>26.06.2024</td>
       </tr>
       <tr>
         <td align="center">1</td></td>
