@@ -168,6 +168,18 @@
     </thead>
     <tbody>
       <tr>
+        <td align="center">18</td></td>
+        <td><a href="https://sass-lang.com">SASS</a></td>
+        <td><a href="https://sass-lang.com/guide/">Sass Basics</a></td>
+        <td>11.11.2024</td>
+      </tr>
+      <tr>
+        <td align="center">17</td></td>
+        <td><a href="https://css-tricks.com">CSS-TRICKS</a></td>
+        <td><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Grid Layout Guide</a></td>
+        <td>11.11.2024</td>
+      </tr>
+      <tr>
         <td align="center">16</td></td>
         <td><a href="https://docs.npmjs.com">npm Docs</a></td>
         <td><a href="https://docs.npmjs.com/about-npm">About npm</a></td>
