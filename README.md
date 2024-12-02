@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" display="flex">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,npm,sass&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,npm,sass&theme=light" />
   </a>
 </p>
 <!-- Tech stack icons (end) -->
