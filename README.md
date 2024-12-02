@@ -171,13 +171,13 @@
         <td align="center">18</td></td>
         <td><a href="https://sass-lang.com">SASS</a></td>
         <td><a href="https://sass-lang.com/guide/">Sass Basics</a></td>
-        <td>11.11.2024</td>
+        <td>02.12.2024</td>
       </tr>
       <tr>
         <td align="center">17</td></td>
         <td><a href="https://css-tricks.com">CSS-TRICKS</a></td>
         <td><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Grid Layout Guide</a></td>
-        <td>11.11.2024</td>
+        <td>01.12.2024</td>
       </tr>
       <tr>
         <td align="center">16</td></td>
