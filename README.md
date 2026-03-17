@@ -128,7 +128,7 @@
         <td><a href="https://rs.school">RS School</a></td>
         <td><a href="https://rs.school/courses/javascript-ru">JavaScript / Front-end Course</a></td>
         <td>27.10.2024</td>
-        <td>IN PROCESS</td>
+        <td>31.12.2024</td>
       <tr>
         <td align="center">2</td></td>
         <td><a href="https://rs.school">RS School</a></td>
