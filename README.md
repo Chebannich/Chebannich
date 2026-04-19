@@ -28,7 +28,7 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **[Portfolio](https://github.com/Chebannich/portfolio)**
 
 - 🌱 I’m currently learning **<a href="https://www.typescriptlang.org">TypeScript</a> and <a href="https://react.dev">React</a>**
 
